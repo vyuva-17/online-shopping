@@ -33,7 +33,7 @@
     12. Db configuration need to change in config.ini under config folder call the defined variables for DB Configuration Management.
     13. To Avoid Sql Query Injection I have called the db constants instead of db details. 
     
-# Update
+# upcomming Release
    1. Back-end works will be transformned to service integration.
    2. convert this application coding standard to mvc architecture.
    3. Authentication Functionality improvements.
